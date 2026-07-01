@@ -1,3 +1,7 @@
+# DISCLAMER
+-------MOD IN WORK IN PROGRESS-------
+
+
 # WHAT IS THIS MOD ABOUT
 This mod is an Enderite mod for Minecraft Bedrock Edition
 
