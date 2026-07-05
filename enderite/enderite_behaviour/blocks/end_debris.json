@@ -1,0 +1,22 @@
+{
+    "format_version": "1.20.80",
+    "minecraft:block": {
+        "description": {
+            "identifier": "enderite:end_debris",
+            "menu_category": {
+                "category": "nature",
+                "group": "itemGroup.name.ore"
+            }
+        },
+        "components": {
+            "minecraft:display_name": {
+                "value": "End Debris"
+            },
+            "minecraft:loot": "loot_tables/end_debris.json",
+            "minecraft:destructible_by_explosion": false,
+            "minecraft:destructible_by_mining": {
+                "seconds_to_destroy": 30
+            }
+        }
+    }
+}
