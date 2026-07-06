@@ -1,9 +1,13 @@
-# DISCLAMER
--------MOD IN WORK IN PROGRESS-------
+# Enderite Mod
 
+This Addon adds a full new Enderite tier to Minecraft Bedrock Edition.
 
-# WHAT IS THIS MOD ABOUT
-This mod is an Enderite mod for Minecraft Bedrock Edition
+Right now this beta includes:
 
-# WHY USE THIS MOD
-I don't know, its simple, theres better mods out there, but i do this for fun
+Enderite Tools (Except the Hoe and Spear),
+
+Enderite Armor
+
+As this is a beta, most features are not implemented and isn't obtainable in survival
+
+I hope you enjoy the Mod when it releases PROPERLY
