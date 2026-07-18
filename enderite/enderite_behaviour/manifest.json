@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Enderite Mod",
+    "description": "Adds Enderite to your game.",
+    "uuid": "f34efde9-901d-4169-ae7e-7bcbb2150f75",
+    "version": [0, 0, 7],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "4c92a09e-debc-4bd8-a07a-2aff6a8afdcd",
+      "version": [0, 0, 7]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "0b5a8e6f-2b12-428f-a813-6306bcc79ce9",
+      "version": [0, 0, 7]
+    }
+  ]
+}

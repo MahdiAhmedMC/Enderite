@@ -1,0 +1,14 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "enderite:end_debris",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

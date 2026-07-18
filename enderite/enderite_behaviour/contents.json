@@ -1,0 +1,107 @@
+{
+   "content" : [
+      {
+         "path" : "blocks/end_debris.json"
+      },
+      {
+         "path" : "blocks/enderite_block.json"
+      },
+      {
+         "path" : "contents.json"
+      },
+      {
+         "path" : "items/armor/enderite_boots.json"
+      },
+      {
+         "path" : "items/armor/enderite_chestplate.json"
+      },
+      {
+         "path" : "items/armor/enderite_helmet.json"
+      },
+      {
+         "path" : "items/armor/enderite_leggings.json"
+      },
+      {
+         "path" : "items/enderite_ingot.json"
+      },
+      {
+         "path" : "items/enderite_scrap.json"
+      },
+      {
+         "path" : "items/enderite_smithing_template.json"
+      },
+      {
+         "path" : "items/tools/enderite_axe.json"
+      },
+      {
+         "path" : "items/tools/enderite_hoe.json"
+      },
+      {
+         "path" : "items/tools/enderite_pickaxe.json"
+      },
+      {
+         "path" : "items/tools/enderite_shovel.json"
+      },
+      {
+         "path" : "items/tools/enderite_sword.json"
+      },
+      {
+         "path" : "loot_tables/blocks/end_debris.json"
+      },
+      {
+         "path" : "loot_tables/blocks/enderite_block.json"
+      },
+      {
+         "path" : "loot_tables/chests/end_city_treasure.json"
+      },
+      {
+         "path" : "manifest.json"
+      },
+      {
+         "path" : "pack_icon.png"
+      },
+      {
+         "path" : "recipes/armor/enderite_boots.json"
+      },
+      {
+         "path" : "recipes/armor/enderite_chestplate.json"
+      },
+      {
+         "path" : "recipes/armor/enderite_helmet.json"
+      },
+      {
+         "path" : "recipes/armor/enderite_leggings.json"
+      },
+      {
+         "path" : "recipes/block_enderite_ingot.json"
+      },
+      {
+         "path" : "recipes/blocks/enderite_block.json"
+      },
+      {
+         "path" : "recipes/enderite_smithing_template_duplication.json"
+      },
+      {
+         "path" : "recipes/scrap_enderite_ingot.json"
+      },
+      {
+         "path" : "recipes/tools/enderite_axe.json"
+      },
+      {
+         "path" : "recipes/tools/enderite_hoe.json"
+      },
+      {
+         "path" : "recipes/tools/enderite_pickaxe.json"
+      },
+      {
+         "path" : "recipes/tools/enderite_shovel.json"
+      },
+      {
+         "path" : "recipes/tools/enderite_spear.json"
+      },
+      {
+         "path" : "recipes/tools/enderite_sword.json"
+      }
+   ],
+   "version" : 1
+}
