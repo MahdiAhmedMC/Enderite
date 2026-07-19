@@ -1,0 +1,18 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_furnace": {
+    "description": {
+    "identifier": "enderite:enderite_scrap"
+    },
+
+    "unlock": [
+      {
+        "item": "minecraft:ancient_debris"
+      }
+    ],
+    "tags": ["furnace", "blast_furnace"],
+    "input": "enderite:end_debris",
+    "output": "enderite:enderite_scrap"
+  }
+ } 
+}

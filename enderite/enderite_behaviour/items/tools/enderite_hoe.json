@@ -1,0 +1,51 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:item": {
+		"description": {
+			"identifier": "enderite:enderite_hoe",
+			"menu_category": {
+				"category": "equipment",
+				"group": "itemGroup.name.hoe"
+			}
+		},
+		"components": {
+			"minecraft:icon": "enderite_hoe",
+			"minecraft:max_stack_size": 1,
+			"minecraft:hand_equipped": true,
+			"minecraft:durability": {
+				"max_durability": 2499
+			},
+            "minecraft:fire_resistant": {
+              "value": true
+			},
+            "minecraft:repairable": {
+              "repair_items": [
+                {
+                  "items": ["enderite:enderite_ingot"],
+                  "repair_amount": "q.max_durability * 0.50"
+                }
+              ]
+            },
+			"minecraft:damage": 7,
+			"minecraft:enchantable": {
+				"value": 14,
+				"slot": "hoe"
+			},
+			"minecraft:use_on": {
+				"blocks": [
+					"grass",
+					"dirt",
+					"grass_path"
+				]
+			},
+			"minecraft:tags": {
+				"tags": [
+					"minecraft:is_hoe",
+					"minecraft:is_tool",
+					"minecraft:digger",
+					"minecraft:netherite_tier"
+				]
+			}
+		}
+	}
+}
